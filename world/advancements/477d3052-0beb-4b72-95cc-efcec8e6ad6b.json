@@ -3486,7 +3486,8 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "minecraft:white": "2022-06-13 18:37:57 +0900"
+      "minecraft:white": "2022-06-13 18:37:57 +0900",
+      "minecraft:persian": "2022-06-15 02:09:06 +0900"
     },
     "done": false
   },
