@@ -461,6 +461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2022-06-15 18:10:57 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2022-06-09 01:18:08 +0900"
@@ -1729,6 +1735,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2022-06-15 18:28:24 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2022-06-09 23:15:10 +0900"
@@ -1768,6 +1780,12 @@
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2022-06-09 01:21:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper": "2022-06-15 18:10:57 +0900"
     },
     "done": true
   },
@@ -2217,6 +2235,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2022-06-15 18:10:57 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2022-06-11 18:20:25 +0900"
@@ -2376,6 +2400,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2022-06-10 22:26:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
+    "criteria": {
+      "has_oxidized_copper": "2022-06-15 18:10:57 +0900"
     },
     "done": true
   },
@@ -2830,6 +2860,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2022-06-15 18:10:57 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2022-06-08 23:41:20 +0900"
@@ -2953,6 +2989,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2022-06-08 23:58:43 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2022-06-15 18:28:24 +0900"
     },
     "done": true
   },
