@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2022-06-29 02:46:54 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-06-09 19:13:02 +0900"
@@ -1389,6 +1395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2022-06-29 02:17:33 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-06-09 00:52:32 +0900"
@@ -1488,6 +1500,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2022-06-08 23:47:38 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-06-29 01:01:55 +0900"
     },
     "done": true
   },
@@ -2085,6 +2103,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2022-06-29 01:01:55 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/mangrove_trapdoor": {
     "criteria": {
       "has_planks": "2022-06-12 06:19:07 +0900"
@@ -2211,6 +2235,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2022-06-29 02:47:44 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/mangrove_fence_gate": {
     "criteria": {
       "has_planks": "2022-06-12 06:19:07 +0900"
@@ -2220,6 +2250,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2022-06-08 23:58:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2022-06-29 02:46:50 +0900"
     },
     "done": true
   },
@@ -2277,6 +2313,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2022-06-29 02:17:33 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2022-06-10 01:29:40 +0900"
@@ -2301,9 +2343,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2022-06-29 01:01:55 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2022-06-28 14:30:48 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2022-06-29 02:17:33 +0900"
     },
     "done": true
   },
@@ -2667,6 +2721,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2022-06-28 23:39:38 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2022-06-08 23:47:52 +0900"
@@ -2931,6 +2991,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2022-06-29 01:01:55 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2022-06-09 00:00:10 +0900"
@@ -2970,6 +3036,7 @@
       "minecraft:zombified_piglin": "2022-06-21 12:21:52 +0900",
       "minecraft:witch": "2022-06-23 15:06:01 +0900",
       "minecraft:wither_skeleton": "2022-06-28 15:10:25 +0900",
+      "minecraft:shulker": "2022-06-29 02:47:49 +0900",
       "minecraft:cave_spider": "2022-06-10 20:57:48 +0900",
       "minecraft:piglin": "2022-06-19 03:16:23 +0900",
       "minecraft:enderman": "2022-06-10 18:12:55 +0900",
@@ -3124,6 +3191,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2022-06-29 01:11:16 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/weathered_cut_copper_from_weathered_copper_stonecutting": {
     "criteria": {
       "has_weathered_copper": "2022-06-23 14:45:44 +0900"
@@ -3163,6 +3236,18 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2022-06-28 14:32:13 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-06-29 01:01:55 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2022-06-29 02:16:16 +0900"
     },
     "done": true
   },
@@ -4119,6 +4204,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2022-06-29 01:01:55 +0900"
+    },
+    "done": true
+  },
   "minecraft:nether/fast_travel": {
     "criteria": {
       "travelled": "2022-06-26 18:55:13 +0900"
@@ -4266,6 +4357,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2022-06-09 01:06:37 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2022-06-28 23:39:38 +0900"
     },
     "done": true
   },
@@ -4599,6 +4696,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2022-06-29 02:17:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2022-06-29 02:17:33 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2022-06-08 23:33:31 +0900"
@@ -4791,6 +4900,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2022-06-29 02:48:00 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2022-06-21 09:28:53 +0900"
@@ -4827,6 +4942,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2022-06-29 01:01:55 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_from_waxed_weathered_copper_stonecutting": {
     "criteria": {
       "has_waxed_weathered_copper": "2022-06-28 02:23:13 +0900"
@@ -4860,6 +4981,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2022-06-09 00:25:54 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2022-06-28 21:05:33 +0900"
     },
     "done": true
   },
@@ -4995,6 +5122,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2022-06-29 01:01:55 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2022-06-09 00:05:56 +0900"
@@ -5031,6 +5164,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2022-06-29 02:16:16 +0900"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2022-06-09 01:38:37 +0900"
@@ -5040,6 +5179,12 @@
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2022-06-18 16:53:39 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-06-29 01:01:55 +0900"
     },
     "done": true
   },
