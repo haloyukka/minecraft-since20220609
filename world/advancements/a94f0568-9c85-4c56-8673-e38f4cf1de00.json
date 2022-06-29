@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2022-06-29 19:08:43 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2022-06-08 23:40:02 +0900"
@@ -449,6 +455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2022-06-29 19:08:43 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2022-06-23 18:52:58 +0900"
@@ -653,6 +665,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2022-06-30 02:24:58 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2022-06-09 01:29:30 +0900"
@@ -773,6 +791,7 @@
       "minecraft:skeleton": "2022-06-11 01:51:03 +0900",
       "minecraft:spider": "2022-06-27 00:42:38 +0900",
       "minecraft:creeper": "2022-06-21 18:02:51 +0900",
+      "minecraft:slime": "2022-06-29 19:20:12 +0900",
       "minecraft:zombified_piglin": "2022-06-26 01:40:47 +0900",
       "minecraft:witch": "2022-06-15 17:43:59 +0900",
       "minecraft:wither_skeleton": "2022-06-28 23:30:00 +0900",
@@ -908,6 +927,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2022-06-30 02:24:58 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-06-10 16:09:33 +0900"
@@ -923,6 +948,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2022-06-09 17:48:53 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2022-06-30 02:24:58 +0900"
     },
     "done": true
   },
@@ -1112,6 +1143,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2022-06-29 19:20:22 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2022-06-30 02:24:58 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-06-14 23:31:42 +0900"
@@ -1133,6 +1176,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2022-06-09 17:48:53 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2022-06-30 02:41:01 +0900"
     },
     "done": true
   },
@@ -1358,6 +1407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2022-06-29 17:18:16 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2022-06-10 22:49:07 +0900"
@@ -1514,6 +1569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2022-06-29 19:20:22 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2022-06-09 01:03:47 +0900"
@@ -1563,6 +1624,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-06-09 17:45:03 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2022-06-29 17:18:16 +0900"
     },
     "done": true
   },
@@ -1689,6 +1756,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2022-06-21 16:50:27 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2022-06-29 19:08:43 +0900"
     },
     "done": true
   },
@@ -2408,6 +2481,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2022-06-29 19:08:43 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2022-06-10 15:54:23 +0900"
@@ -2711,6 +2790,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2022-06-09 01:20:08 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2022-06-29 19:08:43 +0900"
     },
     "done": true
   },
@@ -3236,6 +3321,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2022-06-29 19:20:22 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2022-06-08 23:40:02 +0900"
@@ -3332,6 +3423,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2022-06-29 19:08:43 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2022-06-11 00:20:41 +0900"
@@ -3389,6 +3486,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2022-06-27 18:54:06 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2022-06-30 02:41:01 +0900"
     },
     "done": true
   },
