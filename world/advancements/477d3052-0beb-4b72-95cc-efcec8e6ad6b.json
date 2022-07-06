@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2022-07-06 22:36:44 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2022-06-09 00:02:29 +0900"
@@ -524,6 +530,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2022-06-15 23:37:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2022-07-06 14:44:39 +0900"
     },
     "done": true
   },
@@ -1704,6 +1716,7 @@
     "criteria": {
       "minecraft:pig": "2022-06-16 00:41:56 +0900",
       "minecraft:frog": "2022-07-03 20:50:30 +0900",
+      "minecraft:turtle": "2022-07-06 18:55:49 +0900",
       "minecraft:sheep": "2022-06-10 01:10:31 +0900",
       "minecraft:cow": "2022-06-10 01:10:40 +0900",
       "minecraft:bee": "2022-06-16 01:26:48 +0900"
