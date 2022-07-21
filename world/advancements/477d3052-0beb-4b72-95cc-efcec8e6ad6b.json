@@ -1342,9 +1342,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2022-06-10 22:26:08 +0900",
       "minecraft:nether_wastes": "2022-06-10 22:24:20 +0900",
-      "minecraft:soul_sand_valley": "2022-06-10 22:48:35 +0900"
+      "minecraft:soul_sand_valley": "2022-06-10 22:48:35 +0900",
+      "minecraft:basalt_deltas": "2022-07-21 10:17:02 +0900",
+      "minecraft:warped_forest": "2022-07-21 10:18:23 +0900"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
