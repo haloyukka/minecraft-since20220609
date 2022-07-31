@@ -419,6 +419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2022-07-30 00:03:33 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2022-06-09 17:48:53 +0900"
@@ -728,6 +734,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-06-09 01:03:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2022-07-30 00:03:33 +0900"
     },
     "done": true
   },
@@ -1709,6 +1721,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2022-07-30 01:47:25 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-06-09 00:06:07 +0900"
@@ -1801,14 +1819,22 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2022-07-30 02:33:40 +0900",
+      "minecraft:deep_ocean": "2022-07-30 02:32:46 +0900",
       "minecraft:sunflower_plains": "2022-06-09 17:40:43 +0900",
+      "minecraft:birch_forest": "2022-07-30 02:30:58 +0900",
       "minecraft:beach": "2022-06-10 15:49:26 +0900",
+      "minecraft:dark_forest": "2022-07-30 03:13:48 +0900",
+      "minecraft:sparse_jungle": "2022-07-30 03:12:42 +0900",
       "minecraft:river": "2022-06-08 23:43:16 +0900",
       "minecraft:lukewarm_ocean": "2022-06-10 15:49:34 +0900",
       "minecraft:stony_shore": "2022-06-09 17:40:51 +0900",
+      "minecraft:cold_ocean": "2022-07-30 02:32:53 +0900",
       "minecraft:forest": "2022-06-08 23:37:24 +0900",
+      "minecraft:frozen_ocean": "2022-07-30 02:35:49 +0900",
       "minecraft:ocean": "2022-06-10 15:49:27 +0900",
       "minecraft:jungle": "2022-06-11 01:42:08 +0900",
+      "minecraft:old_growth_birch_forest": "2022-07-30 03:27:45 +0900",
       "minecraft:deep_dark": "2022-06-10 16:12:35 +0900",
       "minecraft:savanna": "2022-06-10 16:01:44 +0900",
       "minecraft:plains": "2022-06-08 23:33:39 +0900"
@@ -2028,6 +2054,12 @@
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "salmon": "2022-06-09 01:23:37 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2022-07-30 00:03:33 +0900"
     },
     "done": true
   },
@@ -2623,6 +2655,7 @@
       "cooked_mutton": "2022-06-11 17:07:50 +0900",
       "sweet_berries": "2022-06-15 01:32:07 +0900",
       "cooked_beef": "2022-06-29 01:23:04 +0900",
+      "porkchop": "2022-07-30 20:58:53 +0900",
       "cooked_cod": "2022-06-09 16:41:45 +0900",
       "mutton": "2022-06-09 00:08:08 +0900",
       "bread": "2022-06-27 18:52:02 +0900",
@@ -2673,6 +2706,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2022-06-09 17:48:53 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2022-07-30 01:47:25 +0900"
     },
     "done": true
   },
@@ -3462,6 +3501,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2022-07-29 23:07:47 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2022-06-09 02:03:32 +0900"
@@ -3633,6 +3678,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2022-06-14 23:19:45 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2022-07-30 01:25:09 +0900"
     },
     "done": true
   },
@@ -4017,6 +4068,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2022-06-28 23:11:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2022-08-01 01:57:31 +0900"
     },
     "done": true
   },
