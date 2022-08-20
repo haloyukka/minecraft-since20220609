@@ -2,7 +2,7 @@
 
 REM サーバー起動
 :restart
-java -Xms1G -Xmx8G -jar server-1.19.jar nogui
+java -Xms1G -Xmx8G -jar server-1.19.1.jar nogui
 
 REM サーバー再起動
 TIMEOUT /T 15
